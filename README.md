@@ -24,11 +24,13 @@ I take pride in writing **clean, well-structured code** and ensuring that the sy
 
 My approach centers on clear **communication**, **strong teamwork**, and **delivering high-quality software** that meets both **user and business needs**.
 
-💼 Currently working as a Software Developer at [MichiganLabs](https://www.michiganlabs.com/) in Ada, MI.
+🏢 Currently working as a Software Developer at [MichiganLabs](https://www.michiganlabs.com/) in Ada, MI.
 
 🎓 I graduated from [Calvin University](https://calvin.edu/) in May 2022 with a B.S. in Computer Science.
 
-🔭 I’m currently working on a portfolio website leveraging ***Payload***, a volleyball stat website using the ***MERN*** tech stack, and exploring various ***SwiftUI*** projects.
+💼 Check out my [Portfolio](https://ryanvreeke-portfolio.vercel.app/home).
+
+🧑‍💻 I’m currently working on a portfolio website leveraging ***Payload***, a volleyball stat website using the ***MERN*** tech stack, and exploring various ***SwiftUI*** projects.
 
 🌱 I’m currently learning [AWS](), [Payload](), and [Supabase]().
 
