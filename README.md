@@ -28,7 +28,7 @@ My approach centers on clear **communication**, **strong teamwork**, and **deliv
 
 🎓 I graduated from [Calvin University](https://calvin.edu/) in May 2022 with a B.S. in Computer Science.
 
-💼 Check out my [Portfolio](https://ryanvreeke-portfolio.vercel.app/home).
+💼 Check out my <a href="https://ryanvreeke-portfolio.vercel.app/home" target="_blank" rel="noopener noreferrer">Portfolio</a>.
 
 🧑‍💻 I’m currently working on a portfolio website leveraging ***Payload***, a volleyball stat website using the ***MERN*** tech stack, and exploring various ***SwiftUI*** projects.
 
