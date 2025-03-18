@@ -78,6 +78,7 @@ My approach centers on clear **communication**, **strong teamwork**, and **deliv
   <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" /></a>
   <a href="https://payloadcms.com/"><img src="https://img.shields.io/badge/Payload-FF3621?style=for-the-badge&logo=PayloadCMS&logoColor=white" alt="PayloadCMS" /></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase" /></a>
+  <a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
 </p>
 
